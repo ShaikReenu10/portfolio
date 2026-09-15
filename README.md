@@ -3,8 +3,7 @@
 
 Welcome to my personal portfolio website! This portfolio showcases my skills, projects, certifications, and learning journey as a Computer Science Engineering student.
 
-🔗 **Live Portfolio:**  
-https://reenuverse.netlify.app/
+
 
 ---
 
@@ -185,10 +184,10 @@ I am looking for opportunities where I can apply my programming and web developm
 https://reenuverse.netlify.app/
 
 💻 **GitHub:**  
-github.com/ShaikReenu10
+https://github.com/ShaikReenu10/
 
 🔗 **LinkedIn:**  
-linkedin.com/in/shaik-reenu
+https://linkedin.com/in/shaik-reenu/
 
 ---
 
